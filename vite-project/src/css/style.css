@@ -27,3 +27,26 @@
     width: 360px;
     height: 200px;
 }
+.feedback-form {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2e2f42;
+}
+.feedback-form label {
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+}
+.feedback-form button {
+  background-color: #4E75FF;
+  color: #ffffff;
+  width: 95px;
+  height: 40px;
+  margin-top: 16px;
+  align-items: start;
+  border: none;
+  border-radius: 8px;
+
+}
